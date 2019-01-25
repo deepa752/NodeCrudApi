@@ -8,7 +8,7 @@ const knex = require( 'knex' )( {
 
         user: 'root',
         password: 'navgurukul',
-        database: 'info',
+        database: 'user',
         charset: 'utf8',
 
 
